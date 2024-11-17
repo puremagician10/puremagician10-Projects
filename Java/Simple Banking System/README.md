@@ -1,4 +1,4 @@
-# Banking System Simulation with GUI (Java)
+# Banking System Simulation with GUI 
 Description: 
  - Develop a simulated banking system that allows users to create accounts, make deposits/withdrawals, and transfer funds. Add a graphical user interface using 
    JavaFX or Swing.
