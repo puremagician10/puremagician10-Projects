@@ -5,3 +5,7 @@
 - Make deposits and withdrawals.
 - Transfer funds between accounts.
 - View account details and transaction history.
+## Key Features:
+### 1. User Registration:
+ - Users can register by entering their name, email, address, and initial deposit.
+ - The system will assign each user a unique account number.
